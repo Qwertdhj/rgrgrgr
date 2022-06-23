@@ -1,0 +1,131 @@
+@media (max-width:480px) {
+    .line {
+      border-bottom: 6px solid rgb(255, 255, 255);
+      width: 21px;
+      position: absolute;
+      top: 19px;
+      border-radius: 10px;
+      margin-left: 8.3%;
+  }
+  .line_2
+  {
+    width: 21px;
+    margin-left: 5%;
+  }
+  .movies-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+    gap: 30px;
+    margin-bottom: 60px;
+    width: 363px;
+    margin-left: 6px;
+    margin-top: 143px;
+}
+.text
+{
+  margin-left: 5.5%;
+  top: 100px;
+}
+.slick-track
+{
+margin-left: -15px;
+  }
+  .line_5
+  {
+    display: none;
+  }
+  .line_7
+  {
+    top: 3908px;
+  }
+  .text_2
+  {
+    display: none;
+  }
+  .text_6
+  {
+    display: block;
+    cursor: default;
+    font-size: 20px;
+    font-family: K2D;
+    top: 3927px;
+    margin-left: 5.5%;
+    font-weight: bold;
+    color: rgb(143, 0, 255);
+    position: absolute;
+  }
+  .line_9
+  {
+    top: 9181px;
+  }
+  .text_4
+  {  
+    top: 9199px;
+    color: rgb(143, 0, 255);
+    margin-left: 5.5%;
+    position: absolute;
+  }
+  .line_8
+  {
+    top: 6549px;
+  }
+  .text_3
+  {
+    top: 6572px;
+    margin-left: 5.5%;
+    font-weight: bold;
+    color: rgb(143, 0, 255);
+    position: absolute;
+  }
+  .line_0 {
+    border-bottom: 3px solid rgb(37 45 62);
+    width: 80%;
+    position: absolute;
+    top: 10677px;
+    border-radius: 10px;
+    margin-left: 10%;
+}
+.context {
+  cursor: default;
+  font-size: 42px;
+  font-family: K2D;
+  position: absolute;
+  font-weight: bold;
+  margin-top: 10682px;
+  color: rgb(143, 0, 255);
+  margin-left: 35%;
+}
+.context_2 {
+  cursor: default;
+  font-size: 10px;
+  font-family: K2D;
+  position: absolute;
+  font-weight: bold;
+  margin-top: 10737px;
+  color: #bebebe;
+  margin-left: 35%;
+}
+.context_3 {
+  cursor: default;
+  font-size: 16px;
+  font-family: K2D;
+  position: absolute;
+  font-weight: bold;
+  margin-top: 10760px;
+  color: #ffffff;
+  font-weight: bold;
+  margin-left: 5%;
+}
+.context_href {
+  cursor: default;
+  font-size: 16px;
+  font-family: sans-serif;
+  position: absolute;
+  /* font-weight: bold; */
+  margin-top: 5115px;
+  color: #ffffff;
+  font-weight: 100;
+  margin-left: -1%;
+  top: 5673px;
+}
+}
